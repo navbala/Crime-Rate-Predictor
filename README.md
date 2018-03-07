@@ -1,10 +1,13 @@
 # finance-and-crime-rate
 Repo for Project 1
 
-Financial Instiutions vs. Crime Rate
-Naveen Balachandran, Anjali Krishna, Kieran Singh, Alan Davila
-Identify the relationship between quantity of financial institutions with economic developements vs. the crime rates in the area.
-Do areas that have historiacally under banked have higher crime rates? Does the crime rate decrease when financial institutions increase in the area?
-TBD
-TBD
-TBD
+1. Financial Instiutions vs. Crime Rate
+2. Naveen Balachandran, Anjali Krishna, Kieran Singh, Alan Davila
+3. Identify the relation between the number of financial institution closers vs. crime rates over a time frame.
+4. Do areas that have historically under banked have higher crime rates? If so, what type crime is affected by the bank closers
+5. FDIC, City-data.com
+6. FBI Crime Data API
+7. Team Lead - Kieran
+   Scrum Master - Anjali
+   Data Engineer - Alan
+   Tester - Naveen
